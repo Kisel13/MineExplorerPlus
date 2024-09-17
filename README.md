@@ -25,8 +25,6 @@ Run `pastebin get Siz3WZMH minexp`
 - Colors used in file explorer are now customizable
 - New hotkeys have been added, and a mouse-only context menu will appear when right-clicking
 
-![Context Menu](context.png)
-
 **Operations and hotkeys:**\
  Copy file/folder (1 or c)\
  Paste file/folder (2 or v)\
