@@ -6,7 +6,7 @@ Original program created by ReimarPB,
 with added features by Missooni ♥
 
 ## Download
-Run `pastebin get Siz3WZMH`.
+Run `pastebin get Siz3WZMH minexp`
 
 ![Screenshot](screenshot.png)
 
